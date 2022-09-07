@@ -5,5 +5,8 @@
   "main": "src/index.js",
   "repository": "https://github.com/josuemartinezz/gh-package.git",
   "author": "Josué Ayala <ayalavalencia11@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@josuemartinezz:registry": "https://npm.pkg.github.com"
+  }
 }
